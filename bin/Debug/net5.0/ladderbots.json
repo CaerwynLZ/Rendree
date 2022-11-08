@@ -1,0 +1,10 @@
+{
+  "Bots": {
+    "Rendree": {
+      "Race": "Terran",
+      "Type": "DotNetCore",
+      "RootPath": "./",
+      "FileName": "Rendree.dll"
+    }
+  }
+}

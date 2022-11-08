@@ -1,0 +1,19 @@
+﻿{
+  "DateTime": "2022-05-08T11:01:54.050212+03:00",
+  "EnemyId": "test",
+  "MapName": "Glittering Ashes AIE",
+  "EnemySelectedRace": 3,
+  "EnemyRace": 3,
+  "MySelectedRace": 1,
+  "MyRace": 1,
+  "Length": 9041,
+  "Result": 1,
+  "EnemyStrategies": {},
+  "Builds": {
+    "0": "ThreeRax"
+  },
+  "EnemyChat": {},
+  "MyChat": {
+    "1": "Tag:Build-ThreeRax"
+  }
+}
